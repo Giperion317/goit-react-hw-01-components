@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-
 export const Transactions = ({ items }) => {
   return (
     <tbody>
